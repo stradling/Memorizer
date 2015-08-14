@@ -13,6 +13,7 @@
 		789A2EF41B7D1A1E0090DCDF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 789A2EF31B7D1A1E0090DCDF /* Images.xcassets */; };
 		789A2EF71B7D1A1E0090DCDF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 789A2EF51B7D1A1E0090DCDF /* LaunchScreen.xib */; };
 		789A2F031B7D1A1E0090DCDF /* MemorizerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789A2F021B7D1A1E0090DCDF /* MemorizerTests.swift */; };
+		789A2F0D1B7D1F770090DCDF /* EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 789A2F0C1B7D1F770090DCDF /* EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		789A2EFC1B7D1A1E0090DCDF /* MemorizerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemorizerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		789A2F011B7D1A1E0090DCDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		789A2F021B7D1A1E0090DCDF /* MemorizerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizerTests.swift; sourceTree = "<group>"; };
+		789A2F0C1B7D1F770090DCDF /* EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG; path = ../../../../Downloads/EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				789A2EEC1B7D1A1E0090DCDF /* AppDelegate.swift */,
 				789A2EEE1B7D1A1E0090DCDF /* ViewController.swift */,
 				789A2EF01B7D1A1E0090DCDF /* Main.storyboard */,
+				789A2F0C1B7D1F770090DCDF /* EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG */,
 				789A2EF31B7D1A1E0090DCDF /* Images.xcassets */,
 				789A2EF51B7D1A1E0090DCDF /* LaunchScreen.xib */,
 				789A2EEA1B7D1A1E0090DCDF /* Supporting Files */,
@@ -194,6 +197,7 @@
 			files = (
 				789A2EF21B7D1A1E0090DCDF /* Main.storyboard in Resources */,
 				789A2EF71B7D1A1E0090DCDF /* LaunchScreen.xib in Resources */,
+				789A2F0D1B7D1F770090DCDF /* EMPL_PHOTO_GEYDAMBZGI3DSMRV_74305.JPG in Resources */,
 				789A2EF41B7D1A1E0090DCDF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -411,6 +415,7 @@
 				789A2F081B7D1A1E0090DCDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		789A2F091B7D1A1E0090DCDF /* Build configuration list for PBXNativeTarget "MemorizerTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				789A2F0B1B7D1A1E0090DCDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
